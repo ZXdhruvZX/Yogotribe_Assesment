@@ -17,25 +17,4 @@ A simple and elegant web app that fetches random cat facts using a public API. B
 
 ---
 
-## 📸 Demo
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Cat+Fact+Generator+App)
-
-> Replace with your own screenshot or deployed link.
-
----
-
-## 🚀 Getting Started
-
-### 📦 Prerequisites
-
-- Node.js (v14+ recommended)
-- npm or yarn
-
-### 🔧 Installation
-
-```bash
-git clone https://github.com/yourusername/cat-fact-generator.git
-cd cat-fact-generator
-npm install
-npm run dev
